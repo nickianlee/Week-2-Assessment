@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ListViewController.h
 //  YourName
 //
 //  Created by nicholaslee on 27/03/2017.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ListViewController : UIViewController
 
 @end
-
